@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p> my answers are: 1.over 4 minutes! 2.over 1200! 3.19.3mb!!! wowza!</p>
+</body>
+</html>
