@@ -1,0 +1,56 @@
+
+Copy code
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>earth is kinda crap right now.</h1>
+
+    <p>where do you want to go?</p>
+
+    <ul>
+        <li><a href="#path1">someone's wierd dream</a></li>
+        <li><a href="#path2">a different planet</a></li>
+    </ul>
+
+    <div id="path1">
+        <h2>someone's wierd dream</h2>
+        <p>You arrive at a random earthling's dream. in the dream you open your eyes only to find out you are in a pub flooded with beautiful chrystal clear water. your'e umderneath the water, but not sure if you are drawning or not. are you going to swim around the pub and look for a person to talk to, or are you going to swim to the door and escape?</p>
+        <ul>
+            <li><a href="#path1a">find the door</a></li>
+            <li><a href="#path1b">find a human to talk to</a></li>
+        </ul>
+    </div>
+
+    <div id="path1a">
+        <h3>Pet the Dragon</h3>
+        <p>The dragon enjoys the pets and leads you to a hidden treasure. Congratulations!</p>
+    </div>
+
+    <div id="path1b">
+        <h3>Run Away</h3>
+        <p>The dragon chases you away. Better luck next time!</p>
+    </div>
+
+    <div id="path2">
+        <h2>Right Path</h2>
+        <p>You come across a mysterious cave. What will you do?</p>
+        <ul>
+            <li><a href="#path2a">Enter the cave</a></li>
+            <li><a href="#path2b">Continue on the path</a></li>
+        </ul>
+    </div>
+
+    <div id="path2a">
+        <h3>Enter the Cave</h3>
+        <p>You discover a treasure chest inside the cave. Well done!</p>
+    </div>
+
+    <div id="path2b">
+        <h3>Continue on the Path</h3>
+        <p>You reach the end of the path and find a beautiful garden. Enjoy the scenery!</p>
+    </div>
+
+</body>
+
+</html>
