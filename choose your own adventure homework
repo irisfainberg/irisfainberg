@@ -23,32 +23,32 @@ Copy code
     </div>
 
     <div id="path1a">
-        <h3>Pet the Dragon</h3>
-        <p>The dragon enjoys the pets and leads you to a hidden treasure. Congratulations!</p>
+        <h3>find the door</h3>
+        <p>you swim across the room. steins and chairs float around you.being underwater is peaceful and stressful at the same time. you manage to find the door, and using lot's of strength, you pull it open. a amssive tsunami of the beautiful water rolls out the door with you in it and you splash around, tumbling helplesly through a strange allyway. it's night out but the sleek modern allyway is painted with white plaster and glowswarmly in the dark by the streetlights. long reeds line it's pathes. you grab on to a reed and hold on for dear life as the water rushes. finally the powerful stream subsides and you can breath. you stand up, soaked to the bone, but the warm summer night air dries you off. you continue to wander the allyway, now encountering pelicans that seem to get bigger and bigger. you ask a pelican where you are, and it squacks loudly at your face. the person who's dream you are exploring is awakend by the squack, and you are zapped back to earth</p>
     </div>
 
     <div id="path1b">
-        <h3>Run Away</h3>
-        <p>The dragon chases you away. Better luck next time!</p>
+        <h3>find a human to talk to</h3>
+        <p>you swim across the room, looking for someone to talk to. steins and chairs float around you. as you reach the bar, you find a young man with long fiery red hair floating by you. you suspect this is the person who's dream you are in. you ask him if this is his pub, and he says it's not, he just lost his shirt in it. he asks if you can help find his shirt. you both breath under water fine, so you have no problem helping. you swim around looking for the shirt, as his beautiful red hair gently sways in the water. you open a cuppboard looking for the shirt, but accidentally knock a bucket of bar nuts that are now spreading across the water, somehow glissening like stars as they engulf you and the young man. you both stop to laugh at the ordeal and continue searching. the young man swims up high towards the light fixture, and excitedly declares his shirt is in the lightbulb. he breaks the bulb to grab it and the light goes out. the dreamer must have woken up bevause you are zapped back to earth</p>
     </div>
 
     <div id="path2">
-        <h2>Right Path</h2>
-        <p>You come across a mysterious cave. What will you do?</p>
+        <h2>a different planet</h2>
+        <p>you launch yourself off of earth, and within a short instant, you are floating gently into the atmosphere of ne wplanet.you land on a strange land covered in soft slightly synthetic feeling moss. the moss is a soft lilach color, and the sand it grows from is warm and glows a neon orange. strangely, the sand smells delicious. will you taste it?</p>
         <ul>
-            <li><a href="#path2a">Enter the cave</a></li>
-            <li><a href="#path2b">Continue on the path</a></li>
+            <li><a href="#path2a">hmm.why not?</a></li>
+            <li><a href="#path2b">that doesnt sound like a good idea</a></li>
         </ul>
     </div>
 
     <div id="path2a">
-        <h3>Enter the Cave</h3>
-        <p>You discover a treasure chest inside the cave. Well done!</p>
+        <h3>hmm.why not?</h3>
+        <p>you decide to taste the sand. at first you take a single grain and place it on the tip of your tongue. you can taste its sweetness. its so nice. you grab a handful and begin to chew. it tastes like an orange coconut cake that's been left in tea for 8 hours. weird but somehow super nice. you're hungry as hell so you pig out on the orange sand, but the more you shovel in your mouth the harder it is to chew. at a certain point your jaw is locked, so you run down to the beautiful stream below to try and see your reflection. as you look at your reflection you realize:oh no! the purple moss has began sprouting through your teeth! no wonder it's hard to move your jaws! welp, you'd better get back to earth and find a dentist.</p>
     </div>
 
     <div id="path2b">
-        <h3>Continue on the Path</h3>
-        <p>You reach the end of the path and find a beautiful garden. Enjoy the scenery!</p>
+        <h3>that doesnt sound like a good idea</h3>
+        <p>boo. your'e boring. go back to earth.</p>
     </div>
 
 </body>
