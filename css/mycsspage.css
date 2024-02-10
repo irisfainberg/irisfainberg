@@ -12,31 +12,44 @@ font-family:"Pixelify Sans";
 text-align: center;}
 h2{ background:  rgb(218, 221, 188);
 color:#d4215d ;
-font-family:"Pixelify Sans";}
-a:link{ color:rgb(218, 221, 188)}
-a:visited{color: #e7d16e;}
-.section{display: flex;
-     text-align:justify;
-     width:200px;
-     height:100px;
-background: #d4215d;
-color: rgb(218, 221, 188);
-justify-content: center;
-border-radius: 15 px;
-border-style:double;
-}
-.headline{ display:flex;
+font-family:"Pixelify Sans";
 text-align: justify;
 height:fit-content;
 width:fit-content;}
-.thicksection{display: flex;
-    text-align:justify;
-    width:200px;
+
+a:link{ color:rgb(218, 221, 188)}
+div{width: 30%;
+display: flexbox;
+float: left;
+clear: both;}
+
+
+a:visited{color: #e7d16e;}
+
+
+.section{
+     text-align:justify;
+     margin-left: 2%;
+     padding: 2px;
 background: #d4215d;
 color: rgb(218, 221, 188);
-justify-content: center;
+border-radius: 15 px;
+border-style:double;
+}
+.thicksection{
+    text-align:justify;
+     padding: 2px;
+background: #d4215d;
+color: rgb(218, 221, 188);
 border-radius: 30 px;
 border-width: 20px;
 border-style:double;}
 
+.bigsection{
+    text-align:justify;
+    height:fit-content;
+background: #d4215d;
+color: rgb(218, 221, 188);
+border-radius: 15 px;
+border-style:double;}
  
