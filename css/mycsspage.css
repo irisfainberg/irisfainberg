@@ -35,6 +35,7 @@ background: #d4215d;
 color: rgb(218, 221, 188);
 border-radius: 15 px;
 border-style:double;
+font-family:"Oswald";
 }
 .thicksection{
     text-align:justify;
@@ -43,7 +44,8 @@ background: #d4215d;
 color: rgb(218, 221, 188);
 border-radius: 30 px;
 border-width: 20px;
-border-style:double;}
+border-style:double;
+font-family:"Oswald";}
 
 .bigsection{
     text-align:justify;
@@ -51,5 +53,6 @@ border-style:double;}
 background: #d4215d;
 color: rgb(218, 221, 188);
 border-radius: 15 px;
-border-style:double;}
+border-style:double;
+font-family:"Oswald";}
  
